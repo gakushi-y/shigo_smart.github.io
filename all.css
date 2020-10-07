@@ -20,6 +20,9 @@ a {
     text-decoration: none;
     color: rgb(0, 0, 0, 0.7);
 }
+ul{
+    list-style: none;
+}
 
 /*<!-------------------------------------------------------------------------------------------------------------->*/
 
@@ -216,6 +219,7 @@ input[type="radio"]:checked+label {
     .show {
         width: 99%;
         margin: 0;
+        margin-bottom: 100px;
         padding-bottom: 0;
         border: none;
     }
